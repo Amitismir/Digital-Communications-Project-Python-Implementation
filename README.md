@@ -72,12 +72,6 @@ The system evaluates:
 - Digital Communications & Signal Processing techniques  
 
 ---
-
-## ▶️ How to Run
-1. Clone repository:
-```bash
-git clone https://github.com/yourusername/repository-name.git
-
 ## 👨‍💻 Author
 Amitis Mirabedini  
 BSc Electrical Engineering  
@@ -85,3 +79,11 @@ Sharif University of Technology
 
 Course Project: Communication Systems  
 Focus: Digital Communications, Signal Processing, and Python Simulation
+
+---
+## ▶️ How to Run
+1. Clone repository:
+```bash
+git clone https://github.com/yourusername/repository-name.git
+
+
